@@ -3,7 +3,7 @@
 // create illo
 let illo = new Zdog.Illustration({
   // set canvas with selector
-  element: ".zdog-canvas"
+  element: "#canvas"
 });
 
 // add circle
